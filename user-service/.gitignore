@@ -1,3 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -46,8 +52,4 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 
-bin/
-obj/
-.vs/
-*.user
-*.suo
+
